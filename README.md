@@ -2,6 +2,8 @@
 
 A 2048 game clone with a predictive algorithm.
 
+![Screenshot](image.png)
+
 ## Controls
 
 `WASD` or arrow keys to move. \
@@ -18,6 +20,12 @@ In a Windows terminal, run the following command:
 ```
 
 This will run a Makefile to compile the program with SDL2 linked.
+
+Then you can start the application with the following command:
+
+```cmd
+.\Main.exe
+```
 
 ## License
 
